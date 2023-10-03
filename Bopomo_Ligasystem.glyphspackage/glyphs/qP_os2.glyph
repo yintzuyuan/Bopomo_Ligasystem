@@ -1,0 +1,18 @@
+{
+color = 6;
+export = 0;
+glyphname = qPos2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-190,0);
+ref = q;
+}
+);
+width = 1000;
+}
+);
+}

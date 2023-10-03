@@ -1,0 +1,36 @@
+{
+color = 6;
+export = 0;
+glyphname = nPos3.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (35,830);
+},
+{
+name = exit;
+pos = (335,830);
+},
+{
+name = tone;
+pos = (235,1130);
+},
+{
+name = top;
+pos = (35,975);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,300);
+ref = n.vert;
+}
+);
+width = 1000;
+}
+);
+}

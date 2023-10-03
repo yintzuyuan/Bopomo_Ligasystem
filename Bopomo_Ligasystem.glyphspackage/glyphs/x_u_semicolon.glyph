@@ -1,0 +1,20 @@
+{
+color = 1;
+glyphname = x_u_semicolon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = xPos3;
+},
+{
+ref = _u_semicolon;
+}
+);
+width = 1000;
+}
+);
+metricLeft = x;
+metricRight = u;
+}

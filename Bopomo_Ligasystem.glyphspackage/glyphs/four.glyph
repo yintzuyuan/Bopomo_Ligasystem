@@ -1,0 +1,29 @@
+{
+color = 10;
+glyphname = four;
+layers = (
+{
+anchors = (
+{
+name = _tone;
+pos = (2,500);
+},
+{
+name = _toneR;
+pos = (1540,-3630);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,380);
+ref = fourthtonechinese;
+scale = (0.3,0.3);
+}
+);
+width = 600;
+}
+);
+unicode = 52;
+}

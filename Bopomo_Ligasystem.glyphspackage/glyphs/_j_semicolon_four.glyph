@@ -1,0 +1,21 @@
+{
+color = 4;
+export = 0;
+glyphname = _j_semicolon_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = jPos3;
+},
+{
+ref = semicolonPos3_four;
+}
+);
+width = 1000;
+}
+);
+metricLeft = j;
+metricRight = j;
+}

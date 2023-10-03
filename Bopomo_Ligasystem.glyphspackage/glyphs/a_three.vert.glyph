@@ -1,0 +1,26 @@
+{
+color = 3;
+glyphname = a_three.vert;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/023.png";
+pos = (-231,-259);
+scale = (1.1799,1.1799);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a.vert;
+},
+{
+pos = (1323,-168);
+ref = three;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

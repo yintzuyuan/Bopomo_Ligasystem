@@ -1,0 +1,26 @@
+{
+color = 7;
+export = 0;
+glyphname = zeroPos2_six.vert;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/024.png";
+pos = (-228,-262);
+scale = (1.1817,1.1817);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = zeroPos2.vert;
+},
+{
+pos = (1326,-358);
+ref = six;
+}
+);
+width = 1000;
+}
+);
+}

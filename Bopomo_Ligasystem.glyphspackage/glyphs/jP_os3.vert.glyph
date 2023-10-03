@@ -1,0 +1,40 @@
+{
+color = 8;
+export = 0;
+glyphname = jPos3.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (-465,1025);
+},
+{
+name = exit;
+pos = (635,830);
+},
+{
+name = tone;
+pos = (535,1130);
+},
+{
+name = top;
+pos = (335,975);
+}
+);
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/007.png";
+pos = (-103,-255);
+scale = (1.1854,1.1854);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = j.vert;
+}
+);
+width = 1000;
+}
+);
+}

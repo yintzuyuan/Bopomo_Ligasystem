@@ -1,0 +1,27 @@
+{
+color = 8;
+export = 0;
+glyphname = jPos2fina_seven.vert;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/006.png";
+pos = (-102,-256);
+scale = (1.18,1.18);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = jPos2fina.vert;
+},
+{
+pos = (1245,365);
+ref = seven;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

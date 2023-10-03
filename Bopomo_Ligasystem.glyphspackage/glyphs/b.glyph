@@ -1,0 +1,41 @@
+{
+color = 6;
+glyphname = b;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (335,830);
+},
+{
+name = exit;
+pos = (695,830);
+},
+{
+name = tone;
+pos = (540,1130);
+},
+{
+name = top;
+pos = (360,980);
+}
+);
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/023.png";
+pos = (-231,-259);
+scale = (1.1799,1.1799);
+};
+layerId = m01;
+shapes = (
+{
+pos = (360,890);
+ref = "r-bopomofo";
+scale = (0.3,0.3);
+}
+);
+width = 1000;
+}
+);
+unicode = 98;
+}

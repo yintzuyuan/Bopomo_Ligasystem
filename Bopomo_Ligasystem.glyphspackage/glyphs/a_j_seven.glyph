@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = a_j_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = aPos2;
+},
+{
+ref = jPos2fina_seven;
+}
+);
+width = 1000;
+}
+);
+metricLeft = a_zero;
+metricRight = j;
+}

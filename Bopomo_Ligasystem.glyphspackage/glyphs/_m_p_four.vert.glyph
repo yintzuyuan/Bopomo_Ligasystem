@@ -1,0 +1,22 @@
+{
+color = 4;
+export = 0;
+glyphname = _m_p_four.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = mPos3.vert;
+},
+{
+pos = (0,-5);
+ref = pPos3_four.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

@@ -1,0 +1,21 @@
+{
+color = 4;
+export = 0;
+glyphname = _u_p_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uPos3;
+},
+{
+ref = pPos3_six;
+}
+);
+width = 1000;
+}
+);
+metricLeft = u;
+metricRight = p;
+}

@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = f_u_seven.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = fPos2.vert;
+},
+{
+ref = uPos2fina_seven.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

@@ -1,0 +1,21 @@
+{
+color = 7;
+export = 0;
+glyphname = periodPos2_three.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = periodPos2.vert;
+},
+{
+pos = (1326,-358);
+ref = three;
+}
+);
+width = 1000;
+}
+);
+}

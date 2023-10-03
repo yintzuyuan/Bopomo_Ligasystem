@@ -1,0 +1,15 @@
+{
+glyphname = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "j-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 82;
+}

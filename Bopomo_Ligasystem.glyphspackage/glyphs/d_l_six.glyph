@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = d_l_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dPos2;
+},
+{
+ref = lPos2_six;
+}
+);
+width = 1000;
+}
+);
+metricLeft = d;
+metricRight = l;
+}

@@ -1,0 +1,24 @@
+{
+color = 5;
+glyphname = five_period_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = fivePos2;
+},
+{
+ref = periodPos2;
+},
+{
+pos = (733,630);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+metricLeft = five;
+metricRight = five;
+}

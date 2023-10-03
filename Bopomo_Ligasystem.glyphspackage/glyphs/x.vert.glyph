@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = x.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (1033,430);
+},
+{
+name = exit;
+pos = (1033,135);
+},
+{
+name = tone;
+pos = (970,1623);
+},
+{
+name = top;
+pos = (602,1350);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (1030,200);
+ref = "l-bopomofo";
+scale = (0.3,0.3);
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,24 @@
+{
+color = 5;
+glyphname = two_o_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = twoPos2;
+},
+{
+ref = oPos2;
+},
+{
+pos = (170,675);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+metricLeft = two;
+metricRight = o;
+}

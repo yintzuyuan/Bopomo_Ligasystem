@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = z_p;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = zPos2;
+},
+{
+ref = pPos2;
+}
+);
+width = 1000;
+}
+);
+metricLeft = z;
+metricRight = p;
+}

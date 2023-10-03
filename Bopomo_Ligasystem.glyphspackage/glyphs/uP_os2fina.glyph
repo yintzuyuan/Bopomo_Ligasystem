@@ -1,0 +1,29 @@
+{
+color = 8;
+export = 0;
+glyphname = uPos2fina;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (170,975);
+}
+);
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/023.png";
+pos = (-231,-259);
+scale = (1.1799,1.1799);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (170,0);
+ref = u;
+}
+);
+width = 1000;
+}
+);
+}

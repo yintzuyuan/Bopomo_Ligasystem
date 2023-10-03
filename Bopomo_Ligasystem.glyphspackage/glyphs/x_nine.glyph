@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = x_nine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = xPos2;
+},
+{
+ref = ninePos2;
+}
+);
+width = 1000;
+}
+);
+metricLeft = x;
+metricRight = x;
+}

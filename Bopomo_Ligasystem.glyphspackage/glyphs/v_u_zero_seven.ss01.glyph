@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = v_u_zero_seven.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = vPos3_seven;
+},
+{
+pos = (60,0);
+ref = _u_zero_seven.ss01;
+}
+);
+width = 1000;
+}
+);
+metricLeft = v_u_zero;
+metricRight = v_u_zero;
+}

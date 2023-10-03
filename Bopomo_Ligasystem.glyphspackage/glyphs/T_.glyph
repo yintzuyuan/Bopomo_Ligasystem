@@ -1,0 +1,15 @@
+{
+glyphname = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ch-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 84;
+}

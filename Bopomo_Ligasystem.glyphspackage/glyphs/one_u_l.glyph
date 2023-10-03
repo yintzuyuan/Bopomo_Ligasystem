@@ -1,0 +1,23 @@
+{
+color = 1;
+glyphname = one_u_l;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = onePos3;
+},
+{
+ref = uPos3;
+},
+{
+ref = lPos3;
+}
+);
+width = 1000;
+}
+);
+metricLeft = one;
+metricRight = l;
+}

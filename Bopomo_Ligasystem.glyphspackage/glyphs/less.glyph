@@ -1,0 +1,15 @@
+{
+glyphname = less;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "eh-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 60;
+}

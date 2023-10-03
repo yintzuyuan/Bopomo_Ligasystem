@@ -1,0 +1,22 @@
+{
+color = 7;
+export = 0;
+glyphname = ninePos2_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (170,0);
+ref = nine;
+},
+{
+pos = (733,630);
+ref = six;
+}
+);
+width = 1000;
+}
+);
+}

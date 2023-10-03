@@ -1,0 +1,22 @@
+{
+color = 7;
+export = 0;
+glyphname = oPos2_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (170,0);
+ref = o;
+},
+{
+pos = (733,630);
+ref = three;
+}
+);
+width = 1000;
+}
+);
+}

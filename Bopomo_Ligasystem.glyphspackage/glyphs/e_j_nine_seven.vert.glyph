@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = e_j_nine_seven.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ePos3_seven.vert;
+},
+{
+pos = (7,-31);
+ref = _j_nine_seven.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

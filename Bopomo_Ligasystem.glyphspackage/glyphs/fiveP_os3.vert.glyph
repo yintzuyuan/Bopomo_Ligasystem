@@ -1,0 +1,41 @@
+{
+color = 6;
+export = 0;
+glyphname = fivePos3.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (35,830);
+},
+{
+name = exit;
+pos = (335,830);
+},
+{
+name = tone;
+pos = (235,1130);
+},
+{
+name = top;
+pos = (35,975);
+}
+);
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/007.png";
+pos = (-103,-255);
+scale = (1.1854,1.1854);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,300);
+ref = five.vert;
+}
+);
+width = 1000;
+}
+);
+}

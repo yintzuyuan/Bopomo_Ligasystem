@@ -1,0 +1,21 @@
+{
+color = 4;
+export = 0;
+glyphname = _u_i_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uPos3;
+},
+{
+ref = iPos3_four;
+}
+);
+width = 1000;
+}
+);
+metricLeft = u;
+metricRight = i;
+}

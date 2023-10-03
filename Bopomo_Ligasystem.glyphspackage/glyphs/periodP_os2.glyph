@@ -1,0 +1,24 @@
+{
+color = 7;
+export = 0;
+glyphname = periodPos2;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (170,975);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (170,0);
+ref = period;
+}
+);
+width = 1000;
+}
+);
+}

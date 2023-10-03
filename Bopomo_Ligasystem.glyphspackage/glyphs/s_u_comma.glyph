@@ -1,0 +1,20 @@
+{
+color = 1;
+glyphname = s_u_comma;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = sPos3;
+},
+{
+ref = _u_comma;
+}
+);
+width = 1000;
+}
+);
+metricLeft = s;
+metricRight = u;
+}

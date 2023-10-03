@@ -1,0 +1,19 @@
+{
+color = 4;
+export = 0;
+glyphname = _u_slash_three.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uPos3.ss01;
+},
+{
+ref = slashPos3_three;
+}
+);
+width = 1000;
+}
+);
+}

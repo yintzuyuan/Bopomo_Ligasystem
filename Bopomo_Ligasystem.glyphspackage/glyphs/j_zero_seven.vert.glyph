@@ -1,0 +1,20 @@
+{
+color = 4;
+glyphname = j_zero_seven.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = jPos2.vert;
+},
+{
+ref = zeroPos2_seven.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

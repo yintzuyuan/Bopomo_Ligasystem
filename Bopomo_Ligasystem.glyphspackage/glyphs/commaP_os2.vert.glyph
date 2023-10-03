@@ -1,0 +1,32 @@
+{
+color = 7;
+export = 0;
+glyphname = commaPos2.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (233,495);
+},
+{
+name = tone;
+pos = (1160,1626);
+},
+{
+name = top;
+pos = (435,1345);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-200);
+ref = comma.vert;
+}
+);
+width = 1000;
+}
+);
+}

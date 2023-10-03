@@ -1,0 +1,36 @@
+{
+color = 7;
+export = 0;
+glyphname = semicolonPos3_seven.vert;
+layers = (
+{
+anchors = (
+{
+name = exit;
+pos = (995,830);
+},
+{
+name = tone;
+pos = (895,1130);
+},
+{
+name = top;
+pos = (695,975);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = semicolonPos3.vert;
+},
+{
+alignment = -1;
+pos = (1250,495);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

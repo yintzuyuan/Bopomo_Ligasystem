@@ -1,0 +1,21 @@
+{
+color = 7;
+export = 0;
+glyphname = eightPos2_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = eightPos2;
+},
+{
+pos = (733,630);
+ref = three;
+}
+);
+width = 1000;
+}
+);
+}

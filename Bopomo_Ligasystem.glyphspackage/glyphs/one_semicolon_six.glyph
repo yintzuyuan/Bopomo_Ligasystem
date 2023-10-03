@@ -1,0 +1,24 @@
+{
+color = 5;
+glyphname = one_semicolon_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = onePos2;
+},
+{
+ref = semicolonPos2;
+},
+{
+pos = (733,630);
+ref = six;
+}
+);
+width = 1000;
+}
+);
+metricLeft = one;
+metricRight = one;
+}

@@ -1,0 +1,29 @@
+{
+color = 1;
+glyphname = one_u_zero_seven;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/026.png";
+pos = (-117,-264);
+scale = (1.1877,1.1877);
+};
+layerId = m01;
+shapes = (
+{
+ref = onePos3_seven;
+},
+{
+pos = (60,0);
+ref = uPos3;
+},
+{
+ref = zeroPos3_seven;
+}
+);
+width = 1000;
+}
+);
+metricLeft = one;
+metricRight = u;
+}

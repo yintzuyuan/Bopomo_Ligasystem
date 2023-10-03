@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = five_zero_four.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = fivePos2.vert;
+},
+{
+ref = zeroPos2_four.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

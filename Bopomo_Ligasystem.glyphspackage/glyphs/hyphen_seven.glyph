@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = hyphen_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = hyphen;
+},
+{
+pos = (360,680);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

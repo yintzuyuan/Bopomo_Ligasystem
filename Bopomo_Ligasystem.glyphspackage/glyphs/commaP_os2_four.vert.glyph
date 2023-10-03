@@ -1,0 +1,21 @@
+{
+color = 7;
+export = 0;
+glyphname = commaPos2_four.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = commaPos2.vert;
+},
+{
+pos = (1326,-358);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+}

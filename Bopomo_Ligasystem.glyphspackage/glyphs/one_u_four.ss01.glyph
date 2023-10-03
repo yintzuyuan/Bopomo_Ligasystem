@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = one_u_four.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = onePos2;
+},
+{
+ref = uPos2fina.ss01;
+},
+{
+pos = (733,630);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+}

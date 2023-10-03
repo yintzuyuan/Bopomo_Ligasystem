@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = z_semicolon_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = zPos2;
+},
+{
+ref = semicolonPos2_six;
+}
+);
+width = 1000;
+}
+);
+metricLeft = z;
+metricRight = z;
+}

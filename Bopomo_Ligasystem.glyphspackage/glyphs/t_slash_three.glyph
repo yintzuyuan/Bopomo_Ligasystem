@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = t_slash_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = tPos2;
+},
+{
+ref = slashPos2_three;
+}
+);
+width = 1000;
+}
+);
+metricLeft = t;
+metricRight = t;
+}

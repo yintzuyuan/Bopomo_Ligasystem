@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = v_three.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = v.vert;
+},
+{
+pos = (1323,-168);
+ref = three;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

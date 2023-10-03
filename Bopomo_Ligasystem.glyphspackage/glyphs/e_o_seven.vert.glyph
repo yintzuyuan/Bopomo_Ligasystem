@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = e_o_seven.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ePos2.vert;
+},
+{
+ref = oPos2_seven.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

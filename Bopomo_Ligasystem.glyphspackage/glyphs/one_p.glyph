@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = one_p;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = onePos2;
+},
+{
+ref = pPos2;
+}
+);
+width = 1000;
+}
+);
+metricLeft = one;
+metricRight = p;
+}

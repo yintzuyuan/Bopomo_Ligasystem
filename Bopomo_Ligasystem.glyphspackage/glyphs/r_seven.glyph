@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = r_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (365,675);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,50 @@
+{
+color = 0;
+glyphname = secondtonechinese;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(441,852,l),
+(108,558,l),
+(183,476,l),
+(492,792,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (476, 376);
+place = (476, 376);
+type = Stem;
+},
+{
+place = (108, 384);
+place = (108, 384);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(441,852,l),
+(108,558,l),
+(183,476,l),
+(492,792,l)
+);
+}
+);
+vertWidth = 1000;
+width = 600;
+}
+);
+note = cid00247;
+unicode = 714;
+}

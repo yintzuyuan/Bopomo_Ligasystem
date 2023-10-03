@@ -1,0 +1,26 @@
+{
+color = 7;
+export = 0;
+glyphname = zeroPos2_seven;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/024.png";
+locked = 1;
+pos = (-228,-262);
+scale = (1.1817,1.1817);
+};
+layerId = m01;
+shapes = (
+{
+ref = zeroPos2;
+},
+{
+pos = (170,675);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

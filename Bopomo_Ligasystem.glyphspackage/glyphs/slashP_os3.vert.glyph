@@ -1,0 +1,36 @@
+{
+color = 7;
+export = 0;
+glyphname = slashPos3.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (-170,1030);
+},
+{
+name = exit;
+pos = (935,830);
+},
+{
+name = tone;
+pos = (1255,1625);
+},
+{
+name = top;
+pos = (335,1370);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-300);
+ref = slash.vert;
+}
+);
+width = 1000;
+}
+);
+}

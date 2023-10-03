@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = u_nine_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uPos2;
+},
+{
+pos = (170,0);
+ref = nine_three;
+}
+);
+width = 1170;
+}
+);
+metricLeft = u;
+metricRight = u;
+}

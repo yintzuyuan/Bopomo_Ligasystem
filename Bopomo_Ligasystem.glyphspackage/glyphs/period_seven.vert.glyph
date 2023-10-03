@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = period_seven.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = period.vert;
+},
+{
+pos = (1250,198);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

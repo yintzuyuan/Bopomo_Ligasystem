@@ -1,0 +1,15 @@
+{
+glyphname = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "h-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 67;
+}

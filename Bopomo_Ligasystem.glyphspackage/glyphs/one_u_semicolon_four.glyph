@@ -1,0 +1,27 @@
+{
+color = 1;
+glyphname = one_u_semicolon_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = onePos3;
+},
+{
+ref = uPos3;
+},
+{
+ref = semicolonPos3;
+},
+{
+pos = (833,630);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+metricLeft = s;
+metricRight = u;
+}

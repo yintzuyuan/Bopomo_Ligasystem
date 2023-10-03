@@ -1,0 +1,20 @@
+{
+color = 7;
+export = 0;
+glyphname = commaPos2_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = commaPos2;
+},
+{
+pos = (170,675);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,20 @@
+{
+color = 7;
+export = 0;
+glyphname = semicolonPos2_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = semicolonPos2;
+},
+{
+pos = (170,675);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

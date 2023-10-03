@@ -1,0 +1,37 @@
+{
+color = 7;
+export = 0;
+glyphname = zeroPos2.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (233,495);
+},
+{
+name = tone;
+pos = (1160,1626);
+},
+{
+name = top;
+pos = (435,1345);
+}
+);
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/024.png";
+pos = (-228,-262);
+scale = (1.1817,1.1817);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-200);
+ref = zero.vert;
+}
+);
+width = 1000;
+}
+);
+}

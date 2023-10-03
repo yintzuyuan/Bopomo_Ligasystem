@@ -1,0 +1,36 @@
+{
+color = 9;
+glyphname = hyphen;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (335,830);
+},
+{
+name = exit;
+pos = (695,830);
+},
+{
+name = tone;
+pos = (540,1130);
+},
+{
+name = top;
+pos = (360,980);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (360,890);
+ref = "er-bopomofo";
+scale = (0.3,0.3);
+}
+);
+width = 1000;
+}
+);
+unicode = 45;
+}

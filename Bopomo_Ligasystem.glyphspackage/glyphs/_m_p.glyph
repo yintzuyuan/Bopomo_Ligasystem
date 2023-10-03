@@ -1,0 +1,21 @@
+{
+color = 4;
+export = 0;
+glyphname = _m_p;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = mPos3;
+},
+{
+ref = pPos3;
+}
+);
+width = 1000;
+}
+);
+metricLeft = m;
+metricRight = p;
+}

@@ -1,0 +1,19 @@
+{
+color = 1;
+glyphname = x_u_slash_seven.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = xPos3_seven;
+},
+{
+pos = (60,0);
+ref = _u_slash_seven.ss01;
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,15 @@
+{
+glyphname = exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "b-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 33;
+}

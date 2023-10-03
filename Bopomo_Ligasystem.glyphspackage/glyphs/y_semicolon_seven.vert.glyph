@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = y_semicolon_seven.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = yPos2.vert;
+},
+{
+ref = semicolonPos2_seven.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

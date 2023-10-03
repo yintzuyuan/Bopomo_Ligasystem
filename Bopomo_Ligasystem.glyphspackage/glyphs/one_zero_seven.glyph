@@ -1,0 +1,24 @@
+{
+color = 5;
+glyphname = one_zero_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = onePos2;
+},
+{
+ref = zeroPos2;
+},
+{
+pos = (170,675);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+metricLeft = one;
+metricRight = one;
+}

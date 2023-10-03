@@ -1,0 +1,40 @@
+{
+color = 7;
+export = 0;
+glyphname = slashPos3_four;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (635,830);
+},
+{
+name = exit;
+pos = (935,830);
+},
+{
+name = tone;
+pos = (835,1130);
+},
+{
+name = top;
+pos = (635,975);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (270,0);
+ref = slash;
+},
+{
+pos = (833,630);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+}

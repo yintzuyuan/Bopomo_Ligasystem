@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = n_k_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = nPos2;
+},
+{
+ref = kPos2_six;
+}
+);
+width = 1000;
+}
+);
+metricLeft = n;
+metricRight = k;
+}

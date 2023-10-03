@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = five_three.vert;
+layers = (
+{
+anchors = (
+{
+name = tone;
+pos = (1000,500);
+},
+{
+name = top;
+pos = (500,800);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = five.vert;
+},
+{
+pos = (1323,-168);
+ref = three;
+}
+);
+width = 1000;
+}
+);
+}

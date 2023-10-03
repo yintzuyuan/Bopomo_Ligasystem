@@ -1,0 +1,20 @@
+{
+color = 1;
+glyphname = g_j_eight_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = gPos3;
+},
+{
+ref = _j_eight_six;
+}
+);
+width = 1000;
+}
+);
+metricLeft = g;
+metricRight = j;
+}

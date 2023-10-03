@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = slash_four.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = slash.vert;
+},
+{
+pos = (1323,-168);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+}

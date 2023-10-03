@@ -1,0 +1,45 @@
+{
+color = 7;
+export = 0;
+glyphname = iPos3_seven.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (-170,1030);
+},
+{
+name = exit;
+pos = (995,830);
+},
+{
+name = tone;
+pos = (895,1130);
+},
+{
+name = top;
+pos = (695,975);
+}
+);
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/007.png";
+pos = (-103,-255);
+scale = (1.1854,1.1854);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iPos3.vert;
+},
+{
+alignment = -1;
+pos = (1250,495);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

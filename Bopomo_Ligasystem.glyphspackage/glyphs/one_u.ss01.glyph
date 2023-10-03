@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = one_u.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = onePos2;
+},
+{
+ref = uPos2fina.ss01;
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,63 @@
+{
+color = 0;
+glyphname = "m-bopomofo";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(131,667,l),
+(131,-113,l),
+(231,-113,l),
+(231,571,l),
+(771,571,l),
+(771,-113,l),
+(876,-113,l),
+(876,667,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (651, 96);
+place = (651, 96);
+type = Stem;
+},
+{
+place = (131, 100);
+place = (131, 100);
+type = Stem;
+},
+{
+place = (771, 105);
+place = (771, 105);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(131,667,l),
+(131,-113,l),
+(231,-113,l),
+(231,571,l),
+(771,571,l),
+(771,-113,l),
+(876,-113,l),
+(876,667,l)
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid01651;
+unicode = 12551;
+}

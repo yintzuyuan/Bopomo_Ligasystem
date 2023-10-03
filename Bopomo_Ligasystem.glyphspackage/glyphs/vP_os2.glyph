@@ -1,0 +1,18 @@
+{
+color = 6;
+export = 0;
+glyphname = vPos2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-190,0);
+ref = v;
+}
+);
+width = 1000;
+}
+);
+}

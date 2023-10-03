@@ -1,0 +1,22 @@
+{
+color = 1;
+glyphname = one_u_p_seven.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = onePos3_seven;
+},
+{
+pos = (60,0);
+ref = uPos3.ss01;
+},
+{
+ref = pPos3_seven;
+}
+);
+width = 1000;
+}
+);
+}

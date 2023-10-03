@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = s_nine.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = sPos2.vert;
+},
+{
+ref = ninePos2.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

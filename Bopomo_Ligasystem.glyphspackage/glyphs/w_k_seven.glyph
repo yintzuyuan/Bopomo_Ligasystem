@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = w_k_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = wPos2;
+},
+{
+ref = kPos2_seven;
+}
+);
+width = 1000;
+}
+);
+metricLeft = w;
+metricRight = k;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = colon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ang-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 58;
+}

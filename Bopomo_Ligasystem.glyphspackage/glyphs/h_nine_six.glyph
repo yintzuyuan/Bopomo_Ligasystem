@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = h_nine_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = hPos2;
+},
+{
+pos = (170,0);
+ref = nine_six;
+}
+);
+width = 1170;
+}
+);
+metricLeft = h;
+metricRight = h;
+}

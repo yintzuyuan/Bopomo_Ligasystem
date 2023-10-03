@@ -1,0 +1,40 @@
+{
+color = 6;
+glyphname = two.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (1033,430);
+},
+{
+name = exit;
+pos = (1033,135);
+},
+{
+name = tone;
+pos = (970,1623);
+},
+{
+name = top;
+pos = (602,1350);
+}
+);
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/007.png";
+pos = (-103,-255);
+scale = (1.1854,1.1854);
+};
+layerId = m01;
+shapes = (
+{
+pos = (1035,200);
+ref = "d-bopomofo";
+scale = (0.3,0.3);
+}
+);
+width = 1000;
+}
+);
+}

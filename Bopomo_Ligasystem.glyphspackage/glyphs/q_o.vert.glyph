@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = q_o.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = qPos2.vert;
+},
+{
+ref = oPos2.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

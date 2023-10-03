@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = s_eight;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = sPos2;
+},
+{
+ref = eightPos2;
+}
+);
+width = 1000;
+}
+);
+metricLeft = s;
+metricRight = s;
+}

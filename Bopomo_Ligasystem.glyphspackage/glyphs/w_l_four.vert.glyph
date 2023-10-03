@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = w_l_four.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = wPos2.vert;
+},
+{
+ref = lPos2_four.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

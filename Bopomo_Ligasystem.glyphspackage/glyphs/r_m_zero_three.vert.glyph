@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = r_m_zero_three.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = rPos3.vert;
+},
+{
+pos = (5,0);
+ref = _m_zero_three.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

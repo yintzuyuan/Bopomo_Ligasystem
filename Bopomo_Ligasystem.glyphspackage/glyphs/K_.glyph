@@ -1,0 +1,15 @@
+{
+glyphname = K;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "e-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 75;
+}

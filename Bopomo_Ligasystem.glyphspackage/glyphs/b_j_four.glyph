@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = b_j_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = bPos2;
+},
+{
+ref = jPos2fina_four;
+}
+);
+width = 1000;
+}
+);
+metricLeft = b_zero;
+metricRight = j;
+}

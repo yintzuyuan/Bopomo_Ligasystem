@@ -1,0 +1,24 @@
+{
+color = 3;
+glyphname = a_seven;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/023.png";
+pos = (-231,-259);
+scale = (1.1799,1.1799);
+};
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (365,675);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

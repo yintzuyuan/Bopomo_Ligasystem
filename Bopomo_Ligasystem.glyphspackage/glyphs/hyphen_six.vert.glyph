@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = hyphen_six.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = hyphen.vert;
+},
+{
+pos = (1323,-168);
+ref = six;
+}
+);
+width = 1000;
+}
+);
+}

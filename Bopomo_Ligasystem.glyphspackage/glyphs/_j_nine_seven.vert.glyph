@@ -1,0 +1,28 @@
+{
+color = 4;
+export = 0;
+glyphname = _j_nine_seven.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (-436,1023);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = jPos3.vert;
+},
+{
+pos = (0,-5);
+ref = ninePos3_seven.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

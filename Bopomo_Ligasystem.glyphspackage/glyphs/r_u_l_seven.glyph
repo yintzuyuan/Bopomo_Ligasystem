@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = r_u_l_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = rPos3_seven;
+},
+{
+pos = (60,0);
+ref = _u_l_seven;
+}
+);
+width = 1000;
+}
+);
+metricLeft = r;
+metricRight = l;
+}

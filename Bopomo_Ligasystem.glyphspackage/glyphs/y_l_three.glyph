@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = y_l_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = yPos2;
+},
+{
+ref = lPos2_three;
+}
+);
+width = 1000;
+}
+);
+metricLeft = y;
+metricRight = l;
+}

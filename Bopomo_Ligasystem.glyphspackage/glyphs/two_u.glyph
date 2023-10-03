@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = two_u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = twoPos2;
+},
+{
+ref = uPos2fina;
+}
+);
+width = 1000;
+}
+);
+metricLeft = two;
+metricRight = u;
+}

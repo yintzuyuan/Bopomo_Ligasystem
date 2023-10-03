@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = five_o_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = fivePos2;
+},
+{
+ref = oPos2;
+},
+{
+pos = (733,630);
+ref = three;
+}
+);
+width = 1000;
+}
+);
+}

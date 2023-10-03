@@ -1,0 +1,24 @@
+{
+color = 5;
+glyphname = five_slash_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = fivePos2;
+},
+{
+ref = slashPos2;
+},
+{
+pos = (733,630);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+metricLeft = five;
+metricRight = five;
+}

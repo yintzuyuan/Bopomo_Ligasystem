@@ -1,0 +1,15 @@
+{
+glyphname = P;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "en-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 80;
+}

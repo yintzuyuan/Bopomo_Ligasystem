@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = two_k_seven.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = twoPos2.vert;
+},
+{
+ref = kPos2_seven.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

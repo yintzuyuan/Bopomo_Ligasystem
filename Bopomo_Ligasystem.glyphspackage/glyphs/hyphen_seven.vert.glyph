@@ -1,0 +1,24 @@
+{
+color = 3;
+glyphname = hyphen_seven.vert;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/005.png";
+pos = (-101,-257);
+scale = (1.1799,1.1799);
+};
+layerId = m01;
+shapes = (
+{
+ref = hyphen.vert;
+},
+{
+pos = (1250,200);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

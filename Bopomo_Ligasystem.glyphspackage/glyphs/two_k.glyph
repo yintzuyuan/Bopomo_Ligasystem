@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = two_k;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = 1;
+ref = twoPos2;
+},
+{
+ref = kPos2;
+}
+);
+width = 1000;
+}
+);
+metricLeft = two;
+metricRight = k;
+}

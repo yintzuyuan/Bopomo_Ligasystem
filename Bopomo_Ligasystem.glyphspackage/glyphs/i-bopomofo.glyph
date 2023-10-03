@@ -1,0 +1,50 @@
+{
+color = 0;
+glyphname = "i-bopomofo";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,351,l),
+(116,249,l),
+(877,249,l),
+(877,351,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (329, 102);
+place = (329, 102);
+type = Stem;
+},
+{
+place = (116, 761);
+place = (116, 761);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,351,l),
+(116,249,l),
+(877,249,l),
+(877,351,l)
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid65342;
+unicode = 12583;
+}

@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = d_eight_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dPos2;
+},
+{
+ref = eightPos2_three;
+}
+);
+width = 1000;
+}
+);
+metricLeft = d;
+metricRight = d;
+}

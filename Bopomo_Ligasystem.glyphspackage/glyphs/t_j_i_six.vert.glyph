@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = t_j_i_six.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = tPos3.vert;
+},
+{
+pos = (5,0);
+ref = _j_i_six.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

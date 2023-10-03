@@ -1,0 +1,26 @@
+{
+color = 1;
+glyphname = f_m_comma_seven.vert;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/008.png";
+pos = (-106,-263);
+scale = (1.19,1.19);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = fPos3_seven.vert;
+},
+{
+pos = (7,-31);
+ref = _m_comma_seven.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

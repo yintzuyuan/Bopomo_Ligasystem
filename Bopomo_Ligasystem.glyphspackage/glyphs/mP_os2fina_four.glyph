@@ -1,0 +1,22 @@
+{
+color = 8;
+export = 0;
+glyphname = mPos2fina_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (170,0);
+ref = m;
+},
+{
+pos = (733,630);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+}

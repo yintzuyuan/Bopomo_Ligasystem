@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = slash_six.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = slash.vert;
+},
+{
+pos = (1323,-168);
+ref = six;
+}
+);
+width = 1000;
+}
+);
+}

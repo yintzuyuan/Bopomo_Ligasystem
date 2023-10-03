@@ -1,0 +1,18 @@
+{
+color = 6;
+export = 0;
+glyphname = sPos2.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,160);
+ref = s.vert;
+}
+);
+width = 1000;
+}
+);
+}

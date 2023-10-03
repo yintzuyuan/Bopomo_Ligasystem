@@ -1,0 +1,41 @@
+{
+color = 7;
+export = 0;
+glyphname = zeroPos3_seven;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (695,830);
+},
+{
+name = exit;
+pos = (995,830);
+},
+{
+name = tone;
+pos = (895,1130);
+},
+{
+name = top;
+pos = (695,975);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (330,0);
+ref = zero;
+},
+{
+alignment = -1;
+pos = (95,675);
+ref = seven;
+}
+);
+width = 1000;
+}
+);
+}

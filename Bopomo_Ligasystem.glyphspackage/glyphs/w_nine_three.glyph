@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = w_nine_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = wPos2;
+},
+{
+pos = (170,0);
+ref = nine_three;
+}
+);
+width = 1170;
+}
+);
+metricLeft = w;
+metricRight = w;
+}

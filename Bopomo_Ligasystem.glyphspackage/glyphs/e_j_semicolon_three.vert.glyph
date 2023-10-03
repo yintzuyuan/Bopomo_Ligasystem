@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = e_j_semicolon_three.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ePos3.vert;
+},
+{
+pos = (5,0);
+ref = _j_semicolon_three.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

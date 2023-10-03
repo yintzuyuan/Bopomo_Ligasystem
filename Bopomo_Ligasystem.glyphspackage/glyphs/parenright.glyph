@@ -1,0 +1,15 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "an-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 41;
+}

@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = w_zero_three.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = wPos2.vert;
+},
+{
+ref = zeroPos2_three.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

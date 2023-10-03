@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = q_nine_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = qPos2;
+},
+{
+pos = (170,0);
+ref = nine_six;
+}
+);
+width = 1170;
+}
+);
+metricLeft = q;
+metricRight = q;
+}

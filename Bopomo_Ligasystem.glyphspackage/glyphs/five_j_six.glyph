@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = five_j_six;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/024.png";
+pos = (-228,-262);
+scale = (1.1817,1.1817);
+};
+layerId = m01;
+shapes = (
+{
+ref = fivePos2;
+},
+{
+ref = jPos2fina_six;
+}
+);
+width = 1000;
+}
+);
+}

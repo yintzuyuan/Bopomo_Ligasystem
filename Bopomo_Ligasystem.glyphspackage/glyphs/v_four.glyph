@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = v_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = v;
+},
+{
+pos = (563,630);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+}

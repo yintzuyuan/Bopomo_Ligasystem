@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = d_nine_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dPos2;
+},
+{
+pos = (170,0);
+ref = nine_seven;
+}
+);
+width = 1170;
+}
+);
+metricLeft = d;
+metricRight = d;
+}

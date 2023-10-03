@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = v_u_slash_four.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = vPos3.vert;
+},
+{
+pos = (5,0);
+ref = _u_slash_four.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

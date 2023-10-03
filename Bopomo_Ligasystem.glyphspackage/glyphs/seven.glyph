@@ -1,0 +1,25 @@
+{
+color = 10;
+glyphname = seven;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (0,300);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-141,185);
+ref = dotaccent;
+scale = (0.3,0.3);
+}
+);
+width = 500;
+}
+);
+unicode = 55;
+}

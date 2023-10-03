@@ -1,0 +1,41 @@
+{
+color = 6;
+export = 0;
+glyphname = bPos3_seven.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (95,830);
+},
+{
+name = exit;
+pos = (395,830);
+},
+{
+name = tone;
+pos = (295,1130);
+},
+{
+name = top;
+pos = (95,975);
+}
+);
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/025.png";
+pos = (-111,-262);
+scale = (1.1835,1.1835);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-30);
+ref = bPos3.vert;
+}
+);
+width = 1000;
+}
+);
+}

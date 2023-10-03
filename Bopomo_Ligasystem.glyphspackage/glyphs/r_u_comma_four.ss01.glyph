@@ -1,0 +1,18 @@
+{
+color = 1;
+glyphname = r_u_comma_four.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = rPos3;
+},
+{
+ref = _u_comma_four.ss01;
+}
+);
+width = 1000;
+}
+);
+}

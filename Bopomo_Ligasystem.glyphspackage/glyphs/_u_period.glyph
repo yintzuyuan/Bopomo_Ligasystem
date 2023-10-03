@@ -1,0 +1,21 @@
+{
+color = 4;
+export = 0;
+glyphname = _u_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uPos3;
+},
+{
+ref = periodPos3;
+}
+);
+width = 1000;
+}
+);
+metricLeft = u;
+metricRight = u;
+}

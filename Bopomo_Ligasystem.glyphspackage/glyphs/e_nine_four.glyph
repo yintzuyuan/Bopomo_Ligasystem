@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = e_nine_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ePos2;
+},
+{
+pos = (170,0);
+ref = nine_four;
+}
+);
+width = 1170;
+}
+);
+metricLeft = e;
+metricRight = e;
+}

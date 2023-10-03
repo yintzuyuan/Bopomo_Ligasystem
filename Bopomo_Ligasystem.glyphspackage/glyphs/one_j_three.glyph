@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = one_j_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = onePos2;
+},
+{
+ref = jPos2fina_three;
+}
+);
+width = 1000;
+}
+);
+metricLeft = one;
+metricRight = j;
+}

@@ -1,0 +1,29 @@
+{
+color = 10;
+glyphname = three;
+layers = (
+{
+anchors = (
+{
+name = _tone;
+pos = (2,500);
+},
+{
+name = _toneR;
+pos = (1560,-3640);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,390);
+ref = caron;
+scale = (0.3,0.3);
+}
+);
+width = 600;
+}
+);
+unicode = 51;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "n-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 83;
+}

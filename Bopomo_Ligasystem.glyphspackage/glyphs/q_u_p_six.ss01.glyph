@@ -1,0 +1,18 @@
+{
+color = 1;
+glyphname = q_u_p_six.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = qPos3;
+},
+{
+ref = _u_p_six.ss01;
+}
+);
+width = 1000;
+}
+);
+}

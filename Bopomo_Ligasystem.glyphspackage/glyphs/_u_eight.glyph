@@ -1,0 +1,21 @@
+{
+color = 4;
+export = 0;
+glyphname = _u_eight;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uPos3;
+},
+{
+ref = eightPos3;
+}
+);
+width = 1000;
+}
+);
+metricLeft = u;
+metricRight = u;
+}

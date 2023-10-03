@@ -1,0 +1,22 @@
+{
+color = 7;
+export = 0;
+glyphname = commaPos2_three.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = commaPos2.vert;
+},
+{
+pos = (1326,-358);
+ref = three;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

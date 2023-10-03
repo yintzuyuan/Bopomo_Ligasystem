@@ -1,0 +1,21 @@
+{
+color = 3;
+glyphname = a_six.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a.vert;
+},
+{
+pos = (1323,-168);
+ref = six;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

@@ -1,0 +1,15 @@
+{
+glyphname = Z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "f-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 90;
+}

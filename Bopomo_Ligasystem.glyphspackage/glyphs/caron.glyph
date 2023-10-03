@@ -1,0 +1,54 @@
+{
+color = 0;
+glyphname = caron;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(443,818,l),
+(300,577,l),
+(150,819,l),
+(33,819,l),
+(300,414,l),
+(565,818,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (414, 405);
+place = (414, 405);
+type = Stem;
+},
+{
+place = (33, 532);
+place = (33, 532);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(443,818,l),
+(300,577,l),
+(150,819,l),
+(33,819,l),
+(300,414,l),
+(565,818,l)
+);
+}
+);
+vertWidth = 1000;
+width = 600;
+}
+);
+note = cid00245;
+unicode = 711;
+}

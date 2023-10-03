@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = w_j_p.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = wPos3.vert;
+},
+{
+pos = (5,0);
+ref = _j_p.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

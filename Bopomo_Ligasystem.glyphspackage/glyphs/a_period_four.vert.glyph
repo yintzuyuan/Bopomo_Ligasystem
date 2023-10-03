@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = a_period_four.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = aPos2.vert;
+},
+{
+ref = periodPos2_four.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

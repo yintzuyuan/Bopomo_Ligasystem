@@ -1,0 +1,32 @@
+{
+color = 8;
+export = 0;
+glyphname = mPos2fina.vert;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (233,495);
+},
+{
+name = tone;
+pos = (1160,1626);
+},
+{
+name = top;
+pos = (435,1345);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-200);
+ref = m.vert;
+}
+);
+width = 1000;
+}
+);
+}

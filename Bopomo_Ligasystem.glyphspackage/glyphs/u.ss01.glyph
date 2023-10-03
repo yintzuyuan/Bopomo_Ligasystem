@@ -1,0 +1,36 @@
+{
+color = 8;
+glyphname = u.ss01;
+layers = (
+{
+anchors = (
+{
+name = entry;
+pos = (335,830);
+},
+{
+name = exit;
+pos = (695,830);
+},
+{
+name = tone;
+pos = (565,1130);
+},
+{
+name = top;
+pos = (365,975);
+}
+);
+layerId = m01;
+shapes = (
+{
+angle = -90;
+pos = (420,1132);
+ref = "i-bopomofo";
+scale = (0.3,0.3);
+}
+);
+width = 1000;
+}
+);
+}

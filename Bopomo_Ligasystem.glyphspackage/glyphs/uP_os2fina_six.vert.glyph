@@ -1,0 +1,26 @@
+{
+color = 8;
+export = 0;
+glyphname = uPos2fina_six.vert;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/023.png";
+pos = (-231,-259);
+scale = (1.1799,1.1799);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uPos2fina.vert;
+},
+{
+pos = (1326,-358);
+ref = six;
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,26 @@
+{
+color = 1;
+glyphname = a_u_zero.vert;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/007.png";
+pos = (-103,-255);
+scale = (1.1854,1.1854);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = aPos3.vert;
+},
+{
+pos = (5,0);
+ref = _u_zero.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

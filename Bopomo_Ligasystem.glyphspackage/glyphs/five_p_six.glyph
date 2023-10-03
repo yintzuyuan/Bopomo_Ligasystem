@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = five_p_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = fivePos2;
+},
+{
+ref = pPos2;
+},
+{
+pos = (733,630);
+ref = six;
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,15 @@
+{
+glyphname = percent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "zh-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 37;
+}

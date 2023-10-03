@@ -1,0 +1,19 @@
+{
+color = 3;
+glyphname = nine_three;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = nine;
+},
+{
+pos = (563,630);
+ref = three;
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = f_m;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = fPos2;
+},
+{
+ref = mPos2fina;
+}
+);
+width = 1000;
+}
+);
+metricLeft = f;
+metricRight = m;
+}

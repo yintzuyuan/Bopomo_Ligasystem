@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = z_i_three.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = zPos2.vert;
+},
+{
+ref = iPos2_three.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

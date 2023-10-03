@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = z_j_six.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = zPos2.vert;
+},
+{
+ref = jPos2fina_six.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

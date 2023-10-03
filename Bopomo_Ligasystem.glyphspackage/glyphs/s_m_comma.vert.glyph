@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = s_m_comma.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = sPos3.vert;
+},
+{
+pos = (5,0);
+ref = _m_comma.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

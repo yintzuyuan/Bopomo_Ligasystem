@@ -1,0 +1,18 @@
+{
+color = 8;
+export = 0;
+glyphname = uPos2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-190,0);
+ref = u;
+}
+);
+width = 1000;
+}
+);
+}

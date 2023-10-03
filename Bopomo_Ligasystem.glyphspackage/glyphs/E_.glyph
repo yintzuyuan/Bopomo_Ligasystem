@@ -1,0 +1,15 @@
+{
+glyphname = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "g-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 69;
+}

@@ -1,0 +1,27 @@
+{
+color = 1;
+glyphname = a_u_l_seven;
+layers = (
+{
+anchors = (
+{
+name = tone;
+pos = (2095,1130);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = aPos3_seven;
+},
+{
+pos = (60,0);
+ref = _u_l_seven;
+}
+);
+width = 1000;
+}
+);
+metricLeft = a;
+metricRight = l;
+}

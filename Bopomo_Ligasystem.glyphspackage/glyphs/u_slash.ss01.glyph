@@ -1,0 +1,18 @@
+{
+color = 4;
+glyphname = u_slash.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uPos2.ss01;
+},
+{
+ref = slashPos2;
+}
+);
+width = 1000;
+}
+);
+}

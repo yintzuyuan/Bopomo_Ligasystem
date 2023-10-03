@@ -1,0 +1,15 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "er-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 95;
+}

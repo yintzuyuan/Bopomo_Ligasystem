@@ -1,0 +1,27 @@
+{
+color = 1;
+glyphname = two_u_period_seven;
+layers = (
+{
+backgroundImage = {
+imagePath = "../../Desktop/WIP/純注音字型計畫/底圖/025.png";
+pos = (-111,-262);
+scale = (1.1835,1.1835);
+};
+layerId = m01;
+shapes = (
+{
+ref = twoPos3_seven;
+},
+{
+pos = (60,0);
+ref = uPos3;
+},
+{
+ref = periodPos3_seven;
+}
+);
+width = 1000;
+}
+);
+}

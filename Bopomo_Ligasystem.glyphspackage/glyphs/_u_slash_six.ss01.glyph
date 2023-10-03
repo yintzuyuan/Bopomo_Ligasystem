@@ -1,0 +1,19 @@
+{
+color = 4;
+export = 0;
+glyphname = _u_slash_six.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uPos3.ss01;
+},
+{
+ref = slashPos3_six;
+}
+);
+width = 1000;
+}
+);
+}

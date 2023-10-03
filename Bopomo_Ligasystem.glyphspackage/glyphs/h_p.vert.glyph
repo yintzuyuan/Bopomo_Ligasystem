@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = h_p.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = gPos2.vert;
+},
+{
+ref = pPos2.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

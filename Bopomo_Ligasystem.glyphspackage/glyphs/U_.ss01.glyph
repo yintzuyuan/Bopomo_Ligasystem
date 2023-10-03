@@ -1,0 +1,14 @@
+{
+glyphname = U.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "i-bopomofo.ss01";
+}
+);
+width = 1000;
+}
+);
+}

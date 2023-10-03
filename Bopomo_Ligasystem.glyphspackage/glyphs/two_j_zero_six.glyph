@@ -1,0 +1,27 @@
+{
+color = 1;
+glyphname = two_j_zero_six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = twoPos3;
+},
+{
+ref = jPos3;
+},
+{
+ref = zeroPos3;
+},
+{
+pos = (833,630);
+ref = six;
+}
+);
+width = 1000;
+}
+);
+metricLeft = two;
+metricRight = j;
+}

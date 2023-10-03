@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = two_slash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = twoPos2;
+},
+{
+ref = slashPos2;
+}
+);
+width = 1000;
+}
+);
+metricLeft = two;
+metricRight = two;
+}

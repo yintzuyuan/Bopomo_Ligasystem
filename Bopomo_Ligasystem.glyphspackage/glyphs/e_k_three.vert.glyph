@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = e_k_three.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ePos2.vert;
+},
+{
+ref = kPos2_three.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

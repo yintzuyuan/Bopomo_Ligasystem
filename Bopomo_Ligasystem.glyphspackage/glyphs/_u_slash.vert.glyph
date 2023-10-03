@@ -1,0 +1,22 @@
+{
+color = 4;
+export = 0;
+glyphname = _u_slash.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uPos3.vert;
+},
+{
+pos = (0,-5);
+ref = slashPos3.vert;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

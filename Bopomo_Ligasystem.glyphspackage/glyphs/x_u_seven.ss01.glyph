@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = x_u_seven.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = xPos2;
+},
+{
+ref = uPos2fina_seven.ss01;
+}
+);
+width = 1000;
+}
+);
+metricLeft = x_u;
+metricRight = x_u;
+}

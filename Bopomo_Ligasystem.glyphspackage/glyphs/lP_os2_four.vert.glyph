@@ -1,0 +1,21 @@
+{
+color = 7;
+export = 0;
+glyphname = lPos2_four.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = lPos2.vert;
+},
+{
+pos = (1326,-358);
+ref = four;
+}
+);
+width = 1000;
+}
+);
+}

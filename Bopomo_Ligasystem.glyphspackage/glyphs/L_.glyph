@@ -1,0 +1,15 @@
+{
+glyphname = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "au-bopomofo";
+}
+);
+width = 1000;
+}
+);
+unicode = 76;
+}
