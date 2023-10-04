@@ -6926,7 +6926,7 @@ key = licenses;
 values = (
 {
 language = ZHT;
-value = "免費個人或商業使用，需註明引用出處。";
+value = "免費個人使用，需註明引用出處。商用請聯繫另洽授權方式。";
 }
 );
 }
