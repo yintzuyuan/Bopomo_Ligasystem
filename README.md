@@ -103,7 +103,7 @@
 
 # 有用腳本（批次組件編輯）
 
-mekkablue：尋找取代組件、移動組件、刪除組件
-Mark2Mark：停用組件自動就定位
-Toshi Omagari：拆開組件
+- mekkablue：尋找取代組件、移動組件、刪除組件
+- Mark2Mark：停用組件自動就定位
+- Toshi Omagari：拆開組件
 
