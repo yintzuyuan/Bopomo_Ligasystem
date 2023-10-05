@@ -1,6 +1,6 @@
-# Bopomo_Ligasystem
+# 注音合字架構系統
 
-- 注音合字架構系統
+- 操作影片說明：[YouTube 影片連結](https://youtube.com/live/Ri-kLDvai9A?feature=share)
 - 授權：免費個人使用，需註明引用出處。商用請聯繫另洽授權方式。
 
 ---
@@ -57,7 +57,7 @@
 
 # 檔案結構－聲母、介音和韻母
 
-<img src="" width="450">
+<img src="https://github.com/yintzuyuan/Bopomo_Ligasystem/blob/master/images/ColorLabels.png" width="450">
 
 ㄅㄧㄠ（聲母－介音－韻母）
 標籤顏色：淺藍色、紫色、藍色
