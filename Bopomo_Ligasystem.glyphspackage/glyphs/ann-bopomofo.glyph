@@ -1,0 +1,10 @@
+{
+glyphname = "ann-bopomofo";
+layers = (
+{
+layerId = m01;
+width = 1000;
+}
+);
+unicode = 12713;
+}
